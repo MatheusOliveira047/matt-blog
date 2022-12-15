@@ -3,12 +3,37 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+body{
+  background-color: #F6FCFF;
+  font-family: "Montserrat", sans-serif;
+}
 ul , li{
   list-style: none;
 }
+input::placeholder,
+textarea::placeholder{
+  font-family: "Montserrat", sans-serif;
 
-a{
+}
+
+input:focus,
+textarea:focus{
+  outline: none;
+}
+
+a,
+nav button{
+  background-color: transparent;
+  border: none;
+  color: #000;
+  transition: .4s;
+  cursor: pointer;
+  font-family: "Montserrat", sans-serif;
   text-decoration: none;
+}
+
+a:hover,
+nav button:hover{
+  color: #bbb;
 }
 
