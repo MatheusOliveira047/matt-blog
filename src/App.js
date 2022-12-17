@@ -22,6 +22,7 @@ import Dashboard from './pages/Dashboard'
 //Componentes
 import NavBar from './components/NavBar';
 import Footer from './components/Footer';
+import Loading from './components/Loading';
 
 function App() {
 
@@ -39,7 +40,7 @@ function App() {
   },[auth])
 
   if(loadingUser){
-    return <p>Carregando...</p>
+    return <Loading/>
   }
 
 

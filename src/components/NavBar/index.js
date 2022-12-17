@@ -9,6 +9,8 @@ import { NavLink } from 'react-router-dom'
 const NavBar = () => {
   const {user} = useAuthValue()
 
+  const {logout} = useAuthentication()
+
   return (
     <header className={styles.navbar}>
       <NavLink to='/' className={styles.brand}>
@@ -41,7 +43,7 @@ const NavBar = () => {
               <NavLink to={'/dashboard'} className={({isActive}) => (isActive ? styles.active : '')}>Dashboard</NavLink>
             </li>
               <li>
-              <NavLink to={'/register'} className={({isActive}) => (isActive ? styles.active : '')}>Sair</NavLink>
+              <button onClick={logout}>Sair</button>
             </li>
             </>)
           }
