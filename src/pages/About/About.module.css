@@ -1,0 +1,12 @@
+.about{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.about h3, .about h1, .about p{
+  margin-bottom: 30px;
+}
+
+.about a{
+  padding: 15px 30px;
+}

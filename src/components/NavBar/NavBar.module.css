@@ -9,12 +9,17 @@
 .brand{
   font-size: 1.2em;
   color: #000;
-
 }
+
+.brand:hover{
+  color: #000;
+}
+
 
 .brand span{
   font-weight: 900;
   text-transform: uppercase;
+  color:#001C43;
 }
 
 .links_list{
