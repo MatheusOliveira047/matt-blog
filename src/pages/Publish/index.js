@@ -2,7 +2,6 @@ import styles from './Publish.module.css'
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import {useAuthValue} from '../../context/AuthContext'
-import { useAuthentication } from '../../hooks/useAuthetication'
 import { useInsertDocument } from '../../hooks/useInsertDocument'
 
 const Publish = () => {
