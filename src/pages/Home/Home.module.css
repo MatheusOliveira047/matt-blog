@@ -36,3 +36,10 @@
 .noposts button{
   width: 200px;
 }
+
+.posts{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 80%;
+}
