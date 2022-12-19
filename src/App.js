@@ -19,6 +19,7 @@ import Register from './pages/Register';
 import Publish from './pages/Publish'
 import Dashboard from './pages/Dashboard'
 import Search from './pages/Search';
+import Post from './pages/Post';
 
 //Componentes
 import NavBar from './components/NavBar';
@@ -51,11 +52,15 @@ function App() {
         <NavBar/>
         <div className="container">
           <Routes>
+             {/* ROTAS ABERTAS */}
             <Route path='/' element={<Home/>} />
             <Route path='/about' element={<About/>} />
             <Route path='/search' element={<Search/>}/>
-            <Route path='/login' element={!user ? <Login/> : <Navigate to={'/'}/>} />
+            <Route path='/post/:id' element={<Post/>}/>
             
+
+                {/* ROTAS PROTEGIDAS */}
+            <Route path='/login' element={!user ? <Login/> : <Navigate to={'/'}/>} />
             <Route path='/register' element={!user ? <Register/> : <Navigate to={'/'}/>} />
             <Route path='/post/publish' element={user ? <Publish/> : <Login/>} />
             <Route path='/dashboard' element={user ? <Dashboard/> : <Login/>} />
