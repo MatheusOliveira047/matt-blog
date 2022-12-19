@@ -1,0 +1,33 @@
+.post {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.post h1{
+  margin: 45px 0;
+  text-align: center;
+}
+
+.post img{
+  max-width: 600px;
+  margin-bottom: 40px;
+}
+
+.post p {
+  margin: 0 50px;
+}
+
+.post h3{
+  margin: 20px 0;
+  
+}
+
+.post .tags{
+  display: flex;
+}
+
+.post .tags p{
+  margin: 0 10px;
+}

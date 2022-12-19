@@ -72,7 +72,8 @@ const Publish = () => {
         <label>
           <span>Conteudo</span>
           <textarea 
-            type="text" 
+            type="text"
+            rows='8' 
             name="body" 
             value={body} 
             onChange={(e)=>setBody(e.target.value)}

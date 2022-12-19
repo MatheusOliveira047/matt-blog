@@ -93,7 +93,9 @@ textarea{
   background-color: #001C43;
   color: #fff;
 }
-
+textarea {
+  resize: none;
+}
 .btn.btn-outline:hover{
   background-color: #000;
 }
