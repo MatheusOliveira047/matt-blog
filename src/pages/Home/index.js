@@ -9,8 +9,14 @@ import PostDatail from '../../components/PostDetail'
 const Home = () => {
   const [query,setQuery] = useState('')
   const {documents: posts,loading} = useFetchDocuments("posts")
+  const navigate = useNavigate()
+
   const handleSearch = (e)=>{
     e.preventDefault()
+
+    if(query){
+      return navigate(`/search?q=${query}`)
+    }
   }
 
   return (
@@ -19,7 +25,7 @@ const Home = () => {
       <form className={styles.search_form} onSubmit={handleSearch} >
         <input 
         type="text" 
-        name="source" 
+        name="search" 
         placeholder='ou busque por tags...'
         onChange={(e)=> setQuery(e.target.value)}
         />
@@ -31,11 +37,7 @@ const Home = () => {
         {posts && posts.map(post => (
          <PostDatail
          key={post.id}
-          image={post.image}
-          title={post.title}
-          id={post.id}
-          createdBy={post.createdBy}
-          tags={post.tagsArray}
+          post={post}
          />
         ))}
 

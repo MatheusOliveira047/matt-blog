@@ -2,18 +2,18 @@ import styles from './PostDetail.module.css'
 
 import { Link } from 'react-router-dom' 
 
-const PostDatail = ({image,title,createdBy,tags,id})=>{
+const PostDatail = ({post})=>{
   return(
     <div className={styles.post_datail}>
-      <img src={image} alt={title} />
-      <h2>{title}</h2>
-      <p className={styles.createdBy}>{createdBy}</p>
+      <img src={post.image} alt={post.title} />
+      <h2>{post.title}</h2>
+      <p className={styles.createdBy}>{post.createdBy}</p>
       <div className={styles.tags}>
-        {tags.map(tag=>(
+        {post.tagsArray.map(tag=>(
           <p key={tag}><span>#</span>{tag}</p>
         ))}
       </div>
-      <Link to={`/post/${id}`} className="btn btn-outline">Clique aqui para mais informações</Link>
+      <Link to={`/post/${post.id}`} className="btn btn-outline">Ler</Link>
     </div>
   )
 }
