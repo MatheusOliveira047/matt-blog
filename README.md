@@ -12,13 +12,28 @@ Para ver a aplicação clique no link: <https://matt-blog.vercel.app/>
 
 ## Layout mobile
 
+![Mobile 1](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile1.jpeg)
+![Mobile 2](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile2.jpeg)
+![Mobile 3](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile3.jpeg)
+![Mobile 4](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile4.jpeg)
+![Mobile 5](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile5.jpeg)
+![Mobile 6](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile6.jpeg)
+![Mobile 7](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile7.jpeg)
+![Mobile 8](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile8.jpeg)
+![Mobile 9](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile9.jpeg)
+
 ## Layout web
 
-![Mobile 1](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/img1.png) ![Mobile 2](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/img2.png)
-
-![Mobile 3](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/img3.png) ![Mobile 4](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/img4.png)
-
-![Mobile 5](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/img5.png)
+![web 1](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web1.png)
+![web 2](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web2.png)
+![web 3](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web3.png)
+![web 4](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web4.png)
+![web 5](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web5.png)
+![web 6](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web6.png)
+![web 7](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web7.png)
+![web 8](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web8.png)
+![web 9](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web9.png)
+![web 10](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web10.png)
 
 # Tecnologias utilizadas
 
