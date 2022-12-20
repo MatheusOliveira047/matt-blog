@@ -6,3 +6,15 @@
 .login p{
   margin-bottom: 30px;
 }
+
+@media (max-width: 600px){
+  .login p{
+    font-size: 0.9em;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  .login h1{
+    font-size: 1.6em;
+   
+  }
+}

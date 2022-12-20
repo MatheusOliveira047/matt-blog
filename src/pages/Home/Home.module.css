@@ -6,6 +6,7 @@
 }
 .home h1{
   margin: 40px 0 20px;
+  text-align: center;
 }
 
 .search_form{
@@ -43,4 +44,22 @@
   align-items: center;
   flex-wrap: wrap;
   width: 80%;
+}
+
+@media (max-width: 800px){
+  .home h1{
+    font-size: 1.6em;
+  }
+  .search_form{
+   
+    width: 80%;
+    
+  }
+}
+
+
+@media (max-width: 500px){
+  .home h1{
+    font-size: 1.3em;
+  }
 }

@@ -46,8 +46,10 @@ const Publish = () => {
 
   return (
     <div className={styles.publish}>
-      <h2>Criar Post</h2>
-      <p>Escreve sobre o que quiser e compartilhe seus conhecimentos</p>
+      <div className={styles.header}>
+        <h2>Criar Post</h2>
+        <p>Escreve sobre o que quiser e compartilhe seus conhecimentos</p>
+      </div>
       <form onSubmit={handleSubmitPost}>
         <label>
           <span>Titulo</span>
@@ -98,6 +100,8 @@ const Publish = () => {
 
       </form>
     </div>
+   
+
   )
 }
 

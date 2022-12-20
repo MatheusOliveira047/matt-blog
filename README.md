@@ -43,9 +43,9 @@ Para ver a aplicação clique no link: <https://matt-blog.vercel.app/>
 
 - React-Router-Dom foi ultilizado para criar o roteamento da aplicação foi ultilizado a versão 6.4.5, dentro do router foi feito a verificação de usuário existente para ter acesso as rotas bloqueadas.
 
-- CSS foi ultilizado com conceito de Css Modules que evita vazamento de css para outros componentes, assim cada componente tem seu proprio evitando conflito entre outros componentes.
+- CSS foi ultilizado com conceito de Css Modules que evita vazamento de css para outros componentes, assim cada componente tem seu proprio css, evitando conflito entre outros componentes.
 
-- Firebase foi ultilizado para criação de novos usuários e login no sistema, foi ultilizado também para ser feito o CRUD dos posts, cada usuário pode criar, editar e deleter seus posts, qualquer usuário pode ver todos os posts já criado no sistema
+- Firebase foi ultilizado para criação de novos usuários e login no sistema, foi ultilizado também para ser feito o CRUD dos posts, cada usuário pode criar, editar e deletar seus posts, qualquer usuário pode ver todos os posts já criado no sistema
 
 # Autor
 

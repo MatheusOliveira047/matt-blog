@@ -5,3 +5,16 @@
 .register p{
   margin-bottom: 30px;
 }
+
+@media (max-width: 600px){
+  .register p{
+    font-size: 0.7em;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  .register h1{
+    font-size: 1.2em;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+}

@@ -1,7 +1,25 @@
+
 .publish{
   text-align: center;
   margin-top: 50px;
+  width: 100%;
 }
 .publish p{
   margin-bottom: 30px;
 }
+
+.publish .header{
+  margin: 0 20px;
+  text-align: center;
+}
+
+@media (max-width: 800px){
+  .publish h2{
+    font-size: 1.5em;
+  }
+  .publish p{
+    font-size: 1em;
+  }
+  
+}
+

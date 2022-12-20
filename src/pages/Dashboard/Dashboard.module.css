@@ -45,3 +45,29 @@
   width: 100px;
   font-size: 0.7em;
 }
+
+
+@media (max-width: 1000px){
+  .post_row div{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .post_header, .post_row{
+    width: 70%;
+  }
+
+  .post_row p{
+    font-size: 0.8em;
+    text-align: left;
+    padding-right: 10px;
+  }
+  
+}
+
+
+@media (max-width: 600px){
+  .post_header, .post_row{
+    width: 80%; 
+  }  
+}
