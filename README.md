@@ -12,28 +12,12 @@ Para ver a aplicação clique no link: <https://matt-blog.vercel.app/>
 
 ### Layout mobile
 
-<img height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile1.jpeg"/>
-<img height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile2.jpeg"/>
-<img height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile3.jpeg"/>
-<img height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile4.jpeg"/>
-<img height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile5.jpeg"/>
-<img height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile6.jpeg"/>
-<img height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile7.jpeg"/>
-<img height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile8.jpeg"/>
-<img height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile9.jpeg"/>
+<img height="400em"  src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile1.jpeg"/> - <img height="400em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile2.jpeg"/> - <img height="400em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile3.jpeg"/> - <img height="400em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile4.jpeg"/> -<img height="400em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile5.jpeg"/> - <img height="400em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile6.jpeg"/> - <img height="400em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile7.jpeg"/> - <img height="400em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/mobile8.jpeg"/>
+
 
 ### Layout web
 
-<img height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web1.png"/>
-<img height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web2.png"/>
-<img height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web3.png"/>
-<img height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web4.png"/>
-<img height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web5.png"/>
-<img height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web6.png"/>
-<img height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web7.png"/>
-<img height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web8.png"/>
-<img height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web9.png"/>
-<img height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web10.png"/>
+<img width="490em" height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web1.png"/> - <img width="490em"  height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web2.png"/> - <img width="490em" height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web3.png"/> - <img width="490em" height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web4.png"/> - <img width="490em" height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web5.png"/> - <img  width="490em" height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web6.png"/> - <img width="490em" height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web7.png"/> - <img width="490em" height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web8.png"/> - <img width="490em" height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web9.png"/> - <img width="490em" height="300em" src="https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/web10.png"/>
 
 ## Tecnologias utilizadas
 
