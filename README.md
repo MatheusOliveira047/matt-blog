@@ -16,17 +16,15 @@ Para ver a aplicação clique no link: <https://matt-blog.vercel.app/>
 
 ## Layout web
 
-![Web 1](<img src="./assets/img1.png" alt="layout web">)
+<img height="300em" src="assets/img1.png" alt="layout web"/>
 
-![Web 2](<img src="./assets/img2.png" alt="layout web">)
+<img height="300em" src="assets/img2.png" alt="layout web"/>
 
-![Web 3](<img src="./assets/img3.png" alt="layout web">)
+<img height="300em" src="assets/img3.png" alt="layout web"/>
 
-![Web 4](<img src="./assets/img4.png" alt="layout web">)
+<img height="300em" src="assets/img4.png" alt="layout web"/>
 
-![Web 5](<img src="./assets/img5.png" alt="layout web">)
-
-
+<img height="300em" src="assets/img5.png" alt="layout web"/>
 
 # Tecnologias utilizadas
 
