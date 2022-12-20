@@ -120,9 +120,11 @@ button[disabled]{
 
 
 @media (max-width: 800px){
+  body{
+    overflow-x: hidden;
+  }
   form{
     max-width: 70%;
-   
   }
 }
 
@@ -130,5 +132,8 @@ button[disabled]{
 @media (max-width: 500px){
   form{
     max-width: 85%;
+  }
+  body{
+  overflow-x: hidden;
   }
 }

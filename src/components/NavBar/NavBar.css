@@ -6,8 +6,9 @@
   background-color: #003b8e;
   padding: 20px;
   height: 8vh;
-  width: 100vw;
- 
+  width: 100%;
+  z-index: 999;
+  overflow: hidden;
 }
 
 .header ul{
@@ -55,14 +56,15 @@
 @media (max-width:900px){
   .header ul{
       position: absolute;
-      top: 50px;
-      right: -100%;
+      top: 40px;
+      right: 100%;
       width: 100%;
       height: calc(100vh - 50px);
-      padding: 50px 100px;
+      padding: 40px 100px;
       text-align: center;
-      overflow: hidden;
+      overflow-y: hidden;
       justify-content: space-between;
+      overflow: hidden;
       background-color: #003b8e;
       flex-direction: column;
       opacity: 0;
@@ -75,7 +77,8 @@
   .header.menuRes ul{
       opacity: 1;
       right: 0px;
-      top: 50px;
+      top: 40px;
+      display: flex;
   }
   .header ul li a{
       margin: 5px 0;
@@ -96,14 +99,14 @@
       transition: 600ms;
   }
   .menu.menuRes .line1{
-      transform: rotate(-45deg) translate(-4px, 5px);
+      transform: rotate(-30deg) translate(-4px, 5px);
       transition: 600ms;
   }
   .menu.menuRes .line2{
       opacity: 0;
   }
   .menu.menuRes .line3{
-      transform: rotate(45deg) translate(-4px, -6px);
+      transform: rotate(30deg) translate(-4px, -6px);
       transition: 600ms;
   }
 }
