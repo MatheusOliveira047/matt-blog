@@ -28,13 +28,24 @@ Para ver a aplicação clique no link: <https://matt-blog.vercel.app/>
 
 ## Front end
 
+- HTML , Css , Javascript
+- React-Router-Dom
 - React.js
-- Css
 
 ## Implantação em produção
 
 - Back end: Firebase
 - Front end: Vercel
+
+# Implantações de desenvolvimento
+
+- React.js foi ultilizado para criar a SPA (Single Page Application), do React foi ultilizado os hooks para implementar os custom Hook para ser feito algumas funcionalidades na aplicação, foi criado o Hook de autenticação de usuário ultilizando o useContext do React para ser usado em toda aplicação o usuário, com o usuário criado a aplicação monitora esse usuário e bloqueia ou liberar rotas para o usuário acessar de acordo com a existência de usuário logado, ultilizando os hooks useState, useEffect e useReducer foram criados os  custom Hooks de inserir, deletar e altulizar os posts no Banco de Dados do Firebase.
+
+- React-Router-Dom foi ultilizado para criar o roteamento da aplicação foi ultilizado a versão 6.4.5, dentro do router foi feito a verificação de usuário existente para ter acesso as rotas bloqueadas.
+
+- CSS foi ultilizado com conceito de Css Modules que evita vazamento de css para outros componentes, assim cada componente tem seu proprio evitando conflito entre outros componentes.
+
+- Firebase foi ultilizado para criação de novos usuários e login no sistema, foi ultilizado também para ser feito o CRUD dos posts, cada usuário pode criar, editar e deleter seus posts, qualquer usuário pode ver todos os posts já criado no sistema
 
 # Autor
 
