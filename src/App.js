@@ -20,6 +20,7 @@ import Publish from './pages/Publish'
 import Dashboard from './pages/Dashboard'
 import Search from './pages/Search';
 import Post from './pages/Post';
+import EditPost from './pages/EditPost';
 
 //Componentes
 import NavBar from './components/NavBar';
@@ -63,6 +64,7 @@ function App() {
             <Route path='/login' element={!user ? <Login/> : <Navigate to={'/'}/>} />
             <Route path='/register' element={!user ? <Register/> : <Navigate to={'/'}/>} />
             <Route path='/post/publish' element={user ? <Publish/> : <Login/>} />
+            <Route path='/post/edit/:id' element={user ? <EditPost/> : <Login/>} />
             <Route path='/dashboard' element={user ? <Dashboard/> : <Login/>} />
           </Routes>
         </div>
