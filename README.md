@@ -12,19 +12,13 @@ Para ver a aplicação clique no link: <https://matt-blog.vercel.app/>
 
 ## Layout mobile
 
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
 ## Layout web
 
-<img height="300em" src="assets/img/img1.png" alt="layout web"/>
+![Mobile 1](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/img1.png) ![Mobile 2](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/img2.png)
 
-<img height="300em" src="assets/img/img2.png" alt="layout web"/>
+![Mobile 3](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/img3.png) ![Mobile 4](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/img4.png)
 
-<img height="300em" src="assets/img/img3.png" alt="layout web"/>
-
-<img height="300em" src="assets/img/img4.png" alt="layout web"/>
-
-<img height="300em" src="assets/img/img5.png" alt="layout web"/>
+![Mobile 5](https://github.com/MatheusOliveira047/matt-blog/blob/main/assets/img/img5.png)
 
 # Tecnologias utilizadas
 
